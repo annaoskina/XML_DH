@@ -24,6 +24,7 @@ Open the TEI-file on GitHub press the button "edit" and start coding!
 ## Example
 
 ```
+  </person>
 <listRelation type="personal">
             <relation name="parent_of" active="#famusov" passive="#sofija"/>
             <relation name="related_with" active="#hlestova" passive="#famusov"/>
