@@ -37,7 +37,7 @@ Open the TEI-file on GitHub press the button "edit" and start coding!
 \</listRelation>
 ```
           
-          Действующие:
+## Действующие лица:
 Павел Афанасьевич Фамусов, управляющий в казенном месте.
 
 Софья Павловна, его дочь.
