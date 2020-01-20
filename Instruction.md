@@ -2,7 +2,7 @@
 
 ## Step 1
 
-See Instruction [here](https://github.com/quadrama/Corpus#relations)
+Chose a drama [here](https://github.com/alexdyul/XML_DH?fbclid=IwAR3fR7SUWv7OlIKlyjvO7VUP0HLJlSS-CP7ZzM2OCZPJEWKmo6RJ5Fhc9Jk)
 
 ## Step 2
 
@@ -21,16 +21,17 @@ Open the TEI-file on GitHub press the button "edit" and start coding!
 
 4. Press "Create pull request" and again "Create pull request" -> YOU ARE DONE!
 
+__Here's the overview of types of relations (from our partners in Stuttgart): https://github.com/quadrama/Corpus#relations__
+
 ## Example
 
 ```
-  </person>
 <listRelation type="personal">
             <relation name="parent_of" active="#famusov" passive="#sofija"/>
             <relation name="related_with" active="#hlestova" passive="#famusov"/>
             <relation name="associated_with" active="#molchalin" passive="#famusov"/>
             <relation name="spouses" mutual="#platon_mihajlovich #natalja_dmitrievna"/>
-            <relation type="personal" name="spouses" mutual="#bärbel #adam"/>
+            <relation name="spouses" mutual="#bärbel #adam"/>
             <relation name="spouses" mutual="#knjaz #knjaginja"/>
             <relation name="siblings" mutual="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna"/>
             <relation name="parent_of" active="#knjaz" passive="#pervaja_knjazhna #vtoraja_knjazhna #tretja_knjazhna #chetviortaja_knjazhna #pjataja_knjazhna #shestaja_knjazhna">
@@ -38,7 +39,7 @@ Open the TEI-file on GitHub press the button "edit" and start coding!
 \</listRelation>
 ```
           
-## Действующие лица:
+          Действующие:
 Павел Афанасьевич Фамусов, управляющий в казенном месте.
 
 Софья Павловна, его дочь.
