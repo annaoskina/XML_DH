@@ -151,6 +151,16 @@
             <persName>Солдат</persName>
             <persName xml:lang="de">Soldat</persName>
           </person>
+          <litsRelation type="personal">
+            <relation name="spouses" mutual="#m-r_dzhekobs #m-ss_dzhekobs"/>
+            <relation name="parent_of" active="#m-r_dzhekobs", passive="#pamela #artur #m-ss_simpson"/>
+            <relation name="parent_of" active="#m-ss_dzhekobs", passive="#pamela #artur #m-ss_simpson"/>
+            <relation name="lover_of" active="#lamperti", passive="#pamela"/>
+            <relation name="siblings" mutual="#pamela #artur #m-ss_simpson"/>
+            <relation name="parent_of" active="#m-r_dzhekobs-starshij", passive="#m-r_dzhekobs"/>
+            <relation name="spouses" mutual="#m-r_simpson #m-ss_simpson"/>
+            <relation name="associated_with" active="#frenk", passive="#m-r_dzhekobs"/>
+          </listRelation>
         </listPerson>
       </particDesc>
       <textClass>
